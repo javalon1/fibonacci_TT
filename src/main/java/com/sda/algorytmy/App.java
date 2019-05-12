@@ -18,7 +18,7 @@ public class App
             return 0;
         }
         else if (a==2){
-            return 2;
+            return 1;
         }
         else {
             return ciagFibonacciego(a-1)+ciagFibonacciego(a-2);
